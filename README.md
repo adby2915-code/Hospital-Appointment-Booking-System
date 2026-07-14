@@ -1,29 +1,32 @@
 # Hospital Appointment Booking System
 
-A Java-based Hospital Appointment Booking System developed using Object-Oriented Programming and HashMap.
+## Overview
+This project simulates a hospital appointment booking system where patients can book, update, cancel, and manage appointments with doctors.
 
 ## Features
-
-- Add Appointment
-- Search Appointment
-- Remove Appointment
-- Update Appointment Status
-- Reschedule Appointment
-- Display Appointments by Doctor
-- Display Appointments by Patient
-- Count Appointments
+- Appointment Management (CRUD)
+- Patient Management
+- Doctor Management
+- Appointment Status Tracking
+- Doctor-wise Appointment Count
 - Doctor Earnings Calculation
-- Find Doctor with Maximum Appointments
+- Appointment Rescheduling
 
-## Technologies Used
-
-- Java
-- HashMap
+## Concepts Used
+- Object-Oriented Programming (OOP)
+- Constructors
+- Composition
+- HashMap Collection
 - Enum
-- OOP Concepts
+- Business Logic Implementation
+
+## Future Improvements
+- MySQL Database Integration
+- File Handling
+- GUI using JavaFX/Swing
+- Spring Boot REST API
 
 ## Author
-
 Adhisankar M
-Biomedical Engineering
-College of Engineering Guindy (Anna University)
+B.E Biomedical Engineering
+College of Engineering Guindy, Anna University
